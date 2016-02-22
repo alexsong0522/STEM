@@ -1,20 +1,20 @@
 
 @font-face {
-	font-family: Arimo;
-	src: url(../fonts/fonts/Arimo/Arimo-BoldItalic.ttf) ;
+	font-family: Nexa Rust Free-Desktop;
+	src: url(../fonts/fonts/Nexa Rust Free-Desktop/Fonts/NexaRustSlab-BlackShadow01-Free.ttf) ;
 
 }
 
 
 @font-face {
-	font-family: ArimoReg;
-	src: url(../fonts/fonts/Arimo/Arimo-Regular.ttf) ;
+	font-family: Nexa Rust Free-Desktop;
+	src: url(../fonts/fonts/Nexa Rust Free-Desktop/Fonts/NexaRustSlab-BlackShadow01-Free.ttf) ;
 
 }
 
 body {
 	background-color: yellow;
-	background-image: url(../image/maxresdefault.jpg);
+	background-image: url(../image/Go_board_0.jpg);
 	color: #ece4fd;
 }
 
